@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDictonaries/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDictonaries/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingLabs/FunctionalProgrammingLabs.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingLabs/FunctionalProgrammingLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Advanced-2024-Sept.iml" filepath="$PROJECT_DIR$/.idea/Java-Advanced-2024-Sept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDictonaries/Labs/Labs.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDictonaries/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimentionalArrays/MultidimentioanlArraysExercises/MultidimentioanlArraysExercises.iml" filepath="$PROJECT_DIR$/MultidimentionalArrays/MultidimentioanlArraysExercises/MultidimentioanlArraysExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimentionalArrays/MultidimentionalArrays.iml" filepath="$PROJECT_DIR$/MultidimentionalArrays/MultidimentionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimentionalArrays/MultidimentionalArraysLabs/MultidimentionalArraysLabs.iml" filepath="$PROJECT_DIR$/MultidimentionalArrays/MultidimentionalArraysLabs/MultidimentionalArraysLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvanced.iml" filepath="$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvancedExercise/SetsAndDictionariesAdvancedExercise.iml" filepath="$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvancedExercise/SetsAndDictionariesAdvancedExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvancedLab/SetsAndDictionariesAdvancedLab.iml" filepath="$PROJECT_DIR$/SetsAndDictionariesAdvanced/SetsAndDictionariesAdvancedLab/SetsAndDictionariesAdvancedLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndTails/StacksAndTails.iml" filepath="$PROJECT_DIR$/StacksAndTails/StacksAndTails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndTails/StacksAndTailsExercises/StacksAndTailsExercises.iml" filepath="$PROJECT_DIR$/StacksAndTails/StacksAndTailsExercises/StacksAndTailsExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndTails/StacksAndTailsLab/StacksAndTailsLab.iml" filepath="$PROJECT_DIR$/StacksAndTails/StacksAndTailsLab/StacksAndTailsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDictonaries/StreamsFilesAndDictonaries.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDictonaries/StreamsFilesAndDictonaries.iml" />
+    </modules>
+  </component>
+</project>
