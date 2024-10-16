@@ -29,5 +29,3 @@ public class Car {
         this.hp = hp;
     }
 }
-
-
