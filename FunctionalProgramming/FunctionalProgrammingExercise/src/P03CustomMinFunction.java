@@ -6,13 +6,16 @@ public class P03CustomMinFunction {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int[] numbers = Arrays.stream(scanner.nextLine().split("\\s+")).mapToInt(Integer::parseInt).toArray();
         Function<Integer[], Integer> findSmallestNumber = arr -> {
             int smallestNumber = Integer.MAX_VALUE;
-            for (Integer number:arr) {
-
+            for (Integer number : arr) {
+                if (smallestNumber < number) {
+                    smallestNumber = number;
+                }
             }
             return smallestNumber;
         };
+        Integer[] numbers = Arrays.stream(scanner.nextLine().split("\\s+")).map(Integer::parseInt).toArray(Integer[]::new);
+        System.out.println(findSmallestNumber.apply(numbers));
     }
 }

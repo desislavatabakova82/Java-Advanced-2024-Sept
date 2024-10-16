@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" filepath="$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDictonaries/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDictonaries/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgrammingExercise/FunctionalProgrammingExercise.iml" />
@@ -18,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/StacksAndTails/StacksAndTailsExercises/StacksAndTailsExercises.iml" filepath="$PROJECT_DIR$/StacksAndTails/StacksAndTailsExercises/StacksAndTailsExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/StacksAndTails/StacksAndTailsLab/StacksAndTailsLab.iml" filepath="$PROJECT_DIR$/StacksAndTails/StacksAndTailsLab/StacksAndTailsLab.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamsFilesAndDictonaries/StreamsFilesAndDictonaries.iml" filepath="$PROJECT_DIR$/StreamsFilesAndDictonaries/StreamsFilesAndDictonaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/exercises/exercises.iml" filepath="$PROJECT_DIR$/DefiningClasses/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/labs/labs.iml" filepath="$PROJECT_DIR$/DefiningClasses/labs/labs.iml" />
     </modules>
   </component>
 </project>
